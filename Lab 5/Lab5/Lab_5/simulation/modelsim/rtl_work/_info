@@ -1,0 +1,237 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Pouya/Desktop/Lab5/Lab_5/simulation/modelsim
+vcontrol_unit
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1569898284
+!i10b 1
+!s100 4Vk=QAMK0X@gclBT`:FHT1
+IH5nJ6SO^jXQ_T0]=MfL`F0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 control_unit_sv_unit
+S1
+R0
+Z4 w1569884743
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/control_unit.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/control_unit.sv
+L0 1
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1569898284.000000
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/control_unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/control_unit.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5
+Z9 tCvgOpt 0
+veight_shift_register
+R1
+Z10 !s110 1569898285
+!i10b 1
+!s100 eXQo?hYiRAd2ZmIg_JaJe2
+IF9ab1B18G_<h8gkWNV3AX3
+R3
+!s105 eight_shift_register_sv_unit
+S1
+R0
+w1569884744
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/eight_shift_register.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/eight_shift_register.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z11 !s108 1569898285.000000
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/eight_shift_register.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/eight_shift_register.sv|
+!i113 1
+R7
+R8
+R9
+vfull_adder
+R1
+R10
+!i10b 1
+!s100 lANb^6ij9?Zg:=T]`MH8E2
+IUkD_^_7Z]17J?4fbcG?kk1
+R3
+!s105 full_adder_sv_unit
+S1
+R0
+R4
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/full_adder.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/full_adder.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/full_adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/full_adder.sv|
+!i113 1
+R7
+R8
+R9
+vHexDriver
+R1
+R10
+!i10b 1
+!s100 =R2i165HPJgkY;aA[TRmG3
+IV^naE17_74=IZhV8_iVAe0
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+R4
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/HexDriver.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/HexDriver.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/HexDriver.sv|
+!i113 1
+R7
+R8
+R9
+n@hex@driver
+vnine_bit_adder
+R1
+R2
+!i10b 1
+!s100 U_ceCg[5aLdi=YBAF^`S_1
+I3WFUzAn=]mF0_PM6VP;En3
+R3
+!s105 nine_bit_adder_sv_unit
+S1
+R0
+R4
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/nine_bit_adder.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/nine_bit_adder.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/nine_bit_adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/nine_bit_adder.sv|
+!i113 1
+R7
+R8
+R9
+vone_register
+R1
+R10
+!i10b 1
+!s100 9m1@L2ZV[;Dn]GmgGgM2g3
+IcBUz:L28j39VUzB:]LL?Z2
+R3
+!s105 one_register_sv_unit
+S1
+R0
+R4
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/one_register.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/one_register.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/one_register.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/one_register.sv|
+!i113 1
+R7
+R8
+R9
+vProcessor
+R1
+R10
+!i10b 1
+!s100 LDA9m5N0@53giBPbVZd?d1
+I]LbD3T=zjUG>b95mH^z7d2
+R3
+!s105 Processor_sv_unit
+S1
+R0
+R4
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/Processor.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/Processor.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/Processor.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/Processor.sv|
+!i113 1
+R7
+R8
+R9
+n@processor
+vsync
+R1
+R10
+!i10b 1
+!s100 Q09R2]zhiN3W=8N=XJAl<2
+I2?9j]]?68D1ETzaZU_G0A0
+R3
+!s105 sync_sv_unit
+S1
+R0
+R4
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/sync.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/sync.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/sync.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/sync.sv|
+!i113 1
+R7
+R8
+R9
+vtestbench
+R1
+R10
+!i10b 1
+!s100 LckP9oQ3oRVBza3Vaa3ZN1
+IUQ>;Cko<;M@5C:eQVS8b93
+R3
+!s105 testbench_sv_unit
+S1
+R0
+R4
+8C:/Users/Pouya/Desktop/Lab5/Lab_5/testbench.sv
+FC:/Users/Pouya/Desktop/Lab5/Lab_5/testbench.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Pouya/Desktop/Lab5/Lab_5/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Pouya/Desktop/Lab5/Lab_5|C:/Users/Pouya/Desktop/Lab5/Lab_5/testbench.sv|
+!i113 1
+R7
+R8
+R9

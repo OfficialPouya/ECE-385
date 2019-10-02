@@ -1,0 +1,26 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/18.1/lab4_ece385_tmp_archive.qarlog
+
+Archive:	C:/intelFPGA_lite/18.1/lab4_ece385_tmp_archive.qar
+Date:		Tue Sep 17 17:10:37 2019
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Pouya/Downloads/ece385sp16_lab4_adders/HexDriver.sv
+C:/Users/Pouya/Downloads/ece385sp16_lab4_adders/carry_lookahead_adder.sv
+C:/Users/Pouya/Downloads/ece385sp16_lab4_adders/carry_select_adder.sv
+C:/Users/Pouya/Downloads/ece385sp16_lab4_adders/lab4_adders_toplevel.sv
+C:/Users/Pouya/Downloads/ece385sp16_lab4_adders/ripple_adder.sv
+C:/intelFPGA_lite/18.1/lab4_ece385.qpf
+C:/intelFPGA_lite/18.1/lab4_ece385.qsf
+C:/intelFPGA_lite/18.1/lab4_ece385.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Sep 17 17:10:38 2019
+Source archive file:	C:/intelFPGA_lite/18.1/lab4_ece385_tmp_archive.qar
+Archive was extracted into	D:/ECE385_ABC_Lab4/pa2_stach2/
+		 - successfully.

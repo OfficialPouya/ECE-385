@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at control_unit.sv(30): always construct contains both blocking and non-blocking assignments File: C:/Users/Pouya/Desktop/Lab5/Lab_5/control_unit.sv Line: 30
+Info (10281): Verilog HDL Declaration information at control_unit.sv(4): object "Sub" differs only in case from object "SUB" in the same scope File: C:/Users/Pouya/Desktop/Lab5/Lab_5/control_unit.sv Line: 4

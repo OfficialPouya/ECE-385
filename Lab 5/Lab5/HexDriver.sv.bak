@@ -1,0 +1,17 @@
+module top_level
+(
+	input logic Clk,
+	input logic Run,
+	input logic ClearA_LoadB,
+	input logic Reset,
+	//
+	input logic S[0],
+	input logic S[1],
+	input logic S[2],
+	input logic S[3],
+	input logic S[4],
+	input logic S[5],
+	input logic S[6],
+	input logic S[7],
+	//
+	inp
