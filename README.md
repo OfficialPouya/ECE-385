@@ -10,27 +10,27 @@ Final Project DEMO: https://youtu.be/GjH6YcFmrJ4
 
 Topics Covered 
 -----
-**§ Combinational logic circuits
+**§ Combinational logic circuits**
 
-**§ Storage elements
+**§ Storage elements**
 
-**§ Hazards and race conditions
+**§ Hazards and race conditions**
 
-**§ Circuit characteristics (fanout, delays, etc.)
+**§ Circuit characteristics (fanout, delays, etc.)**
 
-**§ Field Programmable Gate Arrays (FPGAs)
+**§ Field Programmable Gate Arrays (FPGAs)**
 
-**§ Combinational networks (adders, multiplexes, etc.) in SystemVerilog
+**§ Combinational networks (adders, multiplexes, etc.) in SystemVerilog**
 
-**§ Sequential networks (counters, shift registers, etc.) in SystemVerilog
+**§ Sequential networks (counters, shift registers, etc.) in SystemVerilog**
 
-**§ Synchronous state machines
+**§ Synchronous state machines**
 
-**§ Static timing analysis, clock domains, metastability, and synchronization
+**§ Static timing analysis, clock domains, metastability, and synchronization**
 
-**§ Microprocessors and system on chip
+**§ Microprocessors and system on chip**
 
-**§ Project using a microprocessor and system on chip concepts
+**§ Project using a microprocessor and system on chip concepts**
 
 
 ACADEMIC INTEGRITY
